@@ -1,5 +1,5 @@
 # ASP.NET-Core-SignalR-Pluralsight
-Demo implementation of SignalR as done in Pluralsight course
+Demo implementation of SignalR as done in Pluralsight course: Implement ASP.NET Core SignalR to place an order and receive status while order is being processed
 
 
 wiredbrain.js -> Client JS code
